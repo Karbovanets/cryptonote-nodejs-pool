@@ -1,10 +1,10 @@
 {
-    "poolHost": "your.pool.host",
+    "poolHost": "pool.sela-coin.com",
 
-    "coin": "karbowanec",
-    "symbol": "KRB",
+    "coin": "selacoin",
+    "symbol": "SELA",
     "coinUnits": 1000000000000,
-    "coinDecimalPlaces": 4,
+    "coinDecimalPlaces": 3,
     "coinDifficultyTarget": 240,
 
     "daemonType": "default",
